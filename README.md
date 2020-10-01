@@ -70,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ## This google api book search is by using axios
+This application doesnt use any mongoose and only use the APIs for the functtionality and npm used here is 'axios'
